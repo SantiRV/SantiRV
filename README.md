@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Santiago Rambeaud Vazquez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
+<p>Soy Desarrollador Web Fullstack. Aparte de programar, me gusta mucho leer e investigar de diferentes temas, relacionados a la musica, la historia y las nuevas tecnologias. Me considero y me consideran una persona organizada, que resuelve problemas eficazmente, independiente, con un muy buen sentido del humor y detallista. Me gusta realizar actividades al aire libre con amigos o familia,entrenar todo tipo de deportes, pero sobre todo futbol y gimnasio, tocar la guitarra, cantar, amo los perros y los gatos, ya que estos ultimos me acompañan en mi día a día. Tambien me gusta participar en proyectos grupales con gente positiva y que aporte valor y experiencias agradables.</p>
+
 - 👯 I’m looking to collaborate on [Henry-Instruments](https://henry-instruments-one.vercel.app/)
 
 - 📫 How to reach me **santirambeaudvazquez@gmail.com**
